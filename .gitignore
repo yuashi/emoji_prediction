@@ -1,0 +1,6 @@
+dataset/*
+!dataset/.gitkeep
+.venv/
+__pycache__/
+*.keras
+*.pkl
